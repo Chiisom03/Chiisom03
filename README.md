@@ -1,4 +1,4 @@
-<h2 align="left">Hello Stranger 👋<br>I'm Peter, creative developer from Lagos.</h2>
+<h2 align="left" style="text-transform: uppercase;">HELLO STRANGER! 👋<br>I'm Peter, creative developer from Lagos.</h2>
 
 ###
 
@@ -6,10 +6,6 @@
   <img src="https://streak-stats.demolab.com?user=chiisom03&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiisom03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/zNFdj21WCAoAAAAC/anime-oregairu.gif"  />
 
 ###
 
@@ -37,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="background-color: red;">
   <a href="chiisom03@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -48,11 +44,8 @@
 
 ###
 
-<br clear="both">
+<img align="center" height="150" src="https://media.tenor.com/zNFdj21WCAoAAAAC/anime-oregairu.gif"  />
 
-<img src="https://raw.githubusercontent.com/chiisom03/chiisom03/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Chiisom03/Chiisom03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
